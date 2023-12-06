@@ -8,4 +8,4 @@ class MyList(list):
         """
         prints the list, but sorted
         """
-        :x
+        print(sorted(self))
